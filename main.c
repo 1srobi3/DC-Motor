@@ -142,5 +142,5 @@ void main() {
      init_PWM2();
      Init_Input_Capture();
      init_PWM2();
-                  for(;;);
+     while(1);
 }
